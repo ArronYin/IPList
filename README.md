@@ -1,21 +1,26 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/2666735/46994002-eda82080-d144-11e8-873b-f568e4bdae8c.png">
+<a href="https://github.com/DeerCloud/IPList">
+<img src="https://user-images.githubusercontent.com/2666735/50806883-84930c00-1333-11e9-869e-3c2f2664f154.png" />
+</a>
 </p>
 
+<h1 align="center">IP 地址库</h1>
 
-# IP 地址库
+<p align="center">数据基于 IPIP.NET 分类，更新日期 20190108.</p>
 
-基于 [IP2](https://github.com/metowolf/IP2) 项目分类的 IP 地址库
+<p align=center>
+<a href="https://i-meto.com/">Author Website</a> ·
+<a href="https://github.com/DeerCloud/IPList">Project Source</a> ·
+<a href="https://t.me/metooooo">Telegram Channel</a>
+</p>
 
-**数据更新日期：20181208 (IP2)**
+***
 
 ## 分类
 
 ### 国家 IP 段
 
-采用 [ISO_3166-1](https://zh.wikipedia.org/wiki/ISO_3166-1%E4%BA%8C%E4%BD%8D%E5%AD%97%E6%AF%8D%E4%BB%A3%E7%A0%81) 进行分类
-
-详见 https://github.com/DeerCloud/IPList/tree/master/data/country
+采用 [ISO_3166-1](https://zh.wikipedia.org/wiki/ISO_3166-1%E4%BA%8C%E4%BD%8D%E5%AD%97%E6%AF%8D%E4%BB%A3%E7%A0%81) 进行分类，[代码详情](https://github.com/DeerCloud/IPList/tree/master/data/country)
 
 |IDC|CIDR|
 |---|---|
@@ -34,9 +39,7 @@
 
 ### 省级 IP 段
 
-采用 [行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20180810101641.html) 进行分类，如广东省为 440000
-
-详见 https://github.com/DeerCloud/IPList/tree/master/data/cncity
+采用 [行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20180810101641.html) 进行分类，如广东省为 440000，[代码详情](https://github.com/DeerCloud/IPList/tree/master/data/cncit)
 
 |IDC|CIDR|
 |---|---|
@@ -46,7 +49,7 @@
 
 ### IDC 段
 
-详见 https://github.com/DeerCloud/IPList/tree/master/data/idc
+测试阶段，不保证质量，[代码详情](https://github.com/DeerCloud/IPList/tree/master/data/idc)
 
 |IDC|CIDR|
 |---|---|
