@@ -62,10 +62,18 @@
 
 由于免费 IP 库无法达到区县级精度，因此不做更细化的分类
 
+### Anycast IP 段
+
+数据由纯真、IPIP.net 综合分析整理而成，CIDR 段不作合并处理，不定期更新
+
+|IDC|CIDR|
+|---|---|
+|Anycast|https://cdn.jsdelivr.net/gh/deercloud/iplist/data/special/anycast.txt|
 
 ## 致谢
 
  - 感谢 [淘宝IP](http://ip.taobao.com/) 提供免费 IP 接口
+ - 感谢 [纯真](http://cz88.net/) 提供离线数据库参考
  - 感谢 [IPIP.NET](https://www.ipip.net/) 提供的免费 IP 离线数据库
  - 感谢 [IP2](https://github.com/metowolf/IP2) 项目提供 datx 数据库格式的读取工具
  - 感谢 [IPDB](https://github.com/metowolf/ipdb) 项目提供 ipdb 数据库格式的读取工具
