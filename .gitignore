@@ -1,3 +1,5 @@
-composer.*
-vendor
-src
+node_modules
+temp
+*.ipdb
+*.mmdb
+qqwry.dat

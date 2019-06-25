@@ -6,7 +6,7 @@
 
 <h1 align="center">IP 地址库</h1>
 
-<p align="center">数据基于 IPIP.NET 分类，更新日期 20190109.</p>
+<p align="center">数据基于 IPIP.NET 分类，更新日期 20190601.</p>
 
 <p align=center>
 <a href="https://i-meto.com/">Author Website</a> ·
