@@ -6,7 +6,7 @@
 
 <h1 align="center">IP 地址库</h1>
 
-<p align="center">数据基于 IPIP.NET 分类，更新日期 20190601.</p>
+<p align="center">数据基于 IPIP.NET 分类，更新日期 20190703.</p>
 
 <p align=center>
 <a href="https://i-meto.com/">Author Website</a> ·
@@ -75,6 +75,7 @@
 
 |采信源|文件|版本|条目|
 |---|---|---|---|
+|**IPIP.NET**|**ipipfree.ipdb**|**2019070314**|**451190**|
 |IPIP.NET|ipip_temp.ipdb|2019060103|5734260|
 |纯真数据库|qqwry.ipdb|20190620|917601|
 |纯真数据库|qqwry.raw.ipdb|20190620|1081472|
