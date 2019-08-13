@@ -91,7 +91,7 @@
 |关岛|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/GU.txt|
 |几内亚比绍|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/GW.txt|
 |圭亚那|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/GY.txt|
-|香港|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/HK.txt|
+|中国香港|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/HK.txt|
 |洪都拉斯|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/HN.txt|
 |克罗地亚|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/HR.txt|
 |海地|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/HT.txt|
@@ -143,7 +143,7 @@
 |马里|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/ML.txt|
 |缅甸|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MM.txt|
 |蒙古国|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MN.txt|
-|澳门|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MO.txt|
+|中国澳门|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MO.txt|
 |北马里亚纳群岛|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MP.txt|
 |马提尼克|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MQ.txt|
 |毛里塔尼亚|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/MR.txt|
@@ -219,7 +219,7 @@
 |土耳其|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TR.txt|
 |特立尼达和多巴哥|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TT.txt|
 |图瓦卢|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TV.txt|
-|台湾|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TW.txt|
+|中国台湾|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TW.txt|
 |坦桑尼亚|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/TZ.txt|
 |乌克兰|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/UA.txt|
 |乌干达|https://raw.githubusercontent.com/metowolf/IPList/master/data/country/UG.txt|
